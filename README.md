@@ -4,5 +4,5 @@
 
 <p>A Small Collection of Simple Turing Machine Simulators.</p>
 
-<p>More info @ <a href="http://tuxar.uk/turing-machines">http://tuxar.uk/turing-machines/</a></p>
+<p>More info @ <a href="http://tuxar.uk/about-computers/alan-turing/turing-machines/">http://tuxar.uk/about-computers/alan-turing/turing-machines/</a></p>
 </article>
